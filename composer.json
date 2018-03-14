@@ -1,9 +1,9 @@
 {
-    "name": "apy/breadcrumbtrail-bundle",
+    "name": "sentence/breadcrumbtrail-bundle",
     "type": "symfony-bundle",
     "description": "Symfony2 Breadcrumbs Bundle with annotations and PHP",
     "keywords": ["symfony", "breadcrumb Trail", "breadcrumbs", "fil ariane", "annotation"],
-    "homepage": "https://github.com/Abhoryo/APYBreadcrumbTrailBundle",
+    "homepage": "https://github.com/Sentence/APYBreadcrumbTrailBundle",
     "license": "MIT",
     "authors": [
         {
